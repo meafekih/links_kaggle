@@ -1,0 +1,23 @@
+{
+    "activations": [
+      {
+        "machine_id": "A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6",
+        "activation_code": "X9Z8Y7W6V5U4T3S2R1Q0P9O8N7M6L5K",
+        "activated_on": "2024-12-07T15:30:00",
+        "expires_on": "2025-12-07T15:30:00",
+        "user_email": "user@example.com",
+        "product_id": "com.example.product",
+        "status": "active"
+      },
+      {
+        "machine_id": "Q1W2E3R4T5Y6U7I8O9P0A1S2D3F4G5H6",
+        "activation_code": "L5K4J3H2G1F0E9D8C7B6A5P4O3N2M1L0",
+        "activated_on": "2024-11-01T10:00:00",
+        "expires_on": "2025-11-01T10:00:00",
+        "user_email": "anotheruser@example.com",
+        "product_id": "com.example.product",
+        "status": "expired"
+      }
+    ]
+  }
+  
